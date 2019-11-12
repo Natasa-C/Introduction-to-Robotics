@@ -57,7 +57,6 @@ void loop() {
       waitAfterPressing = 0;
     }
   }
-
 }
 
 void soundOn(int buzzerPin, int buzzerTone) {
